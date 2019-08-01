@@ -1,0 +1,16 @@
+{
+    "Name": "Datasets with and without deliberate head movements for detection and imputation of dropout in diffusion MRI",
+    "BIDSVersion": "1.0.1",
+    "License": "CC-BY",
+    "Authors": [
+        "Alexandra Koch",
+        "Rüdiger Stirnberg",
+        "Tony Stöcker",
+        "Thomas Schultz"
+    ],
+    "HowToAcknowledge": "Please cite the paper in References and Links when using this data.",
+    "ReferencesAndLinks": [
+        "Koch A, Zhukov A, Stöcker T, Groeschel S, Schultz T. SHORE‐based detection and imputation of dropout in diffusion MRI. Magn Reson Med. 2019;00:1–13. https ://doi.org/10.1002/mrm.27893"
+    ],
+    "DatasetDOI": ""
+}
